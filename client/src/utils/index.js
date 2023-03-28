@@ -1,4 +1,4 @@
-import { surpriseMePrompts } from '../assets/constants'
+import { surpriseMePrompts } from '../constants'
 
 export function getRandomPrompt(prompt) {
 
